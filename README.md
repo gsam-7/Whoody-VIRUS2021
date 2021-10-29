@@ -1,13 +1,10 @@
 # Whoody - Aesthetic Clothing
 
 ##  Table of Contents  
-*  [General Info](#general-info)  
 *  [Features ](#features)     
 *  [Technologies](#technologies)     
 
 
-##  General Info      
-website and video trailer created for VIRUS 2021 by Birla Vidya Niketan  
 
 ##  Technologies
 Project is created with  a
@@ -22,9 +19,6 @@ Project is created with  a
 *  Self-repairing   
 *  Made sustainably   
 *  Auto-resize   
-
-###   Live Demo  
-https://suyash-singh14.github.io/Whoody-VIRUS2021
 
 ###  Github repo
 https://github.com/Suyash-Singh14/Whoody-VIRUS2021
