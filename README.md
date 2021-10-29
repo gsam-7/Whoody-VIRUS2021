@@ -1,6 +1,4 @@
 # Whoody - Aesthetic Clothing
->  futuristic hoodie  
-
 
 ##  Table of Contents  
 *  [General Info](#general-info)  
