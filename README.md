@@ -27,9 +27,6 @@ Project is created with  a
 *  Made sustainably   
 *  Auto-resize   
 
-###  Github repo
-https://github.com/Suyash-Singh14/Whoody-VIRUS2021
-
 ### Warnings
 * Interactive features section breaks on resizing :(
 * Video page doesn't work on smaller displays(mainly displays which have an aspect ratio less than 1.5)
