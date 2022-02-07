@@ -9,7 +9,7 @@
 
 ##  Table of Contents  
 *  [Live Demo](#Live-Demo)      
-*  [WARNINGS](#warnings)     
+*  [Warnings](#warnings)     
 
 ###   Live Demo  
 https://suyash-singh14.github.io/Whoody-VIRUS2021
